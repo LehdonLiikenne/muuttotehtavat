@@ -1,0 +1,7 @@
+# Excel temporary files
+~$*.xls*
+*.tmp
+
+# Office user settings
+*. شخصي.xlsb
+*. Personal.xlsb
